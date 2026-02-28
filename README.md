@@ -37,9 +37,8 @@ Make sure you have **Python 3.8+** installed.
     ```
 
 3.  **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
+    Refer to used libraries mentioned below and install them respectively. 
+
     > **Note:** The `sounddevice` library may require you to install system-level dependencies like `portaudio`. If you encounter an error, please see the [sounddevice documentation](https://python-sounddevice.readthedocs.io/en/latest/installation.html) for guidance.
 
 4.  **Run the assistant:**
@@ -56,7 +55,6 @@ Make sure you have **Python 3.8+** installed.
 brothers-ai/
 │
 ├── main.py               \# The core application logic
-├── requirements.txt       \# Python dependencies
 ├── recordings/            \# (Optional) Directory for saved voice recordings
 └── README.md              \# Project documentation
 
@@ -99,8 +97,8 @@ Here are a few commands you can try:
 
 **Abhijeet Krishna Budhak**
 
-*🎓 Computer Science Engineer* *📍 Ballarpur Institute of T...*
-*(Your College/City)*
+*🎓 Computer Science Engineer* *📍 Ballarpur Institute of Technology*
+
 
  “Turning code into companions that listen and respond.”
 
